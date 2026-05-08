@@ -7,8 +7,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        'dokb-green': '#00b14f', // Hijau Grab
-        'dokb-dark': '#1a1a1a',
+        'dokb-yellow': '#FACC15', // Kuning Kalsel
+        'dokb-grey': '#1F2937',   // Abu-abu Gelap (Dark Grey)
+        'dokb-accent': '#374151',
       },
     },
   },
