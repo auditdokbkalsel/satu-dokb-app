@@ -7,9 +7,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        'dokb-yellow': '#FACC15', // Kuning Kalsel
-        'dokb-grey': '#1F2937',   // Abu-abu Gelap (Dark Grey)
-        'dokb-accent': '#374151',
+        'dokb-yellow': '#FACC15', 
+        'dokb-grey': '#334155',   // Lebih terang (Slate-700)
+        'dokb-accent': '#475569',
       },
     },
   },
